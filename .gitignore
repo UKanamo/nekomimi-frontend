@@ -1,0 +1,6 @@
+node_ modules/
+node_ modules/.*
+node_ modules/@babel
+dist/
+docs/
+coverage/
